@@ -22,8 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-solution-pYGXVFsnEn)
+- Live Site URL: [Live Site](https://k4ik.github.io/blog-preview-card-solution/)
 
 ## My process
 
@@ -35,7 +35,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [k4ik](https://github.com/k4ik)
+- Frontend Mentor - [@k4ik](https://www.frontendmentor.io/profile/k4ik)
+- Twitter - [@k4ik_](https://twitter.com/k4ik_)
 
