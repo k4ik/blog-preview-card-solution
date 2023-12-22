@@ -70,6 +70,11 @@ body {
     margin: 15px 0 20px;
 }
 
+.card-content h1:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
 .card-content p {
     color: var(--grey);
     margin: 15px 0;
